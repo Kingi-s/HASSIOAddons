@@ -1,0 +1,14 @@
+name: "testi"
+description: "teesti_desc"
+version: "1.0.2"
+slug: "testi"
+init: false
+arch:
+  - aarch64
+  - amd64
+  - armhf
+  - armv7
+  - i386
+startup: before
+ports:
+  8888/tcp: 8888
