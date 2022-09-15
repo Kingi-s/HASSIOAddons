@@ -1,7 +1,7 @@
-name: "Hello world"
-description: "My first real add-on!"
-version: "1.0.0"
-slug: "hello_world"
+name: "Testi"
+description: "Teesti desc"
+version: "1.0.1"
+slug: "Testi"
 init: false
 arch:
   - aarch64
@@ -11,4 +11,4 @@ arch:
   - i386
 startup: before
 ports:
-  8000/tcp: 8000
+  8888/tcp: 8888
