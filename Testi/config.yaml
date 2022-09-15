@@ -1,7 +1,7 @@
-name: "Testi"
-description: "Teesti desc"
+name: "testi"
+description: "teesti_desc"
 version: "1.0.1"
-slug: "Testi"
+slug: "testi"
 init: false
 arch:
   - aarch64
